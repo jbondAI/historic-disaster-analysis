@@ -1,10 +1,10 @@
- # AI BOOTCAMP GROUP PROJECT (Project 1)
-This repository shares the source data, examination approach, data analytics script and key findings of an examination of the impacts of disasters and extreme weather events on US public health and economics.
+ # HISTORIC DISASTER ANALYSIS
+This repository shares the source data, examination approach, data analytics script and key findings of an examination of the historic declared disasters, associated public project assistance and observable impacts to public health data.
 
 ## EXECUTIVE SUMMARY
 
 ### Project Objectives
-To examine the impacts of extreme weather and climate events on public health and regional  economics. 
+To examine the impacts of disasters on public project funding programs and public health data. 
 
 ### Data Analysis
 The investigating team narrowed its efforts on the collection, transformation, analysis and visualization of daily, county-level data, where available, for at least five years including the period between 2018 - 2022, and focusing on the relationship between extreme events. 
@@ -81,7 +81,6 @@ Given access to higher fidelity public health data and additional time to explor
 ### Python Libraries
 * datetime
 * json
-* math
 * matplotlib
 * numpy
 * pandas
